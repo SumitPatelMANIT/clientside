@@ -29,8 +29,8 @@ const LoginRightSide = () => {
         </div>
 
         <div className='flex justify-between mt-0'>
-          <button className='flex gap-3 items-center w-48/100 justify-center px-4 py-2 bg-[#2C2638] border-1 border-gray-400 rounded mt-5 transition active:scale-90 duration-400'><img  className='w-7' src='../public/google-icon.png'></img>Google</button>
-          <button className='flex gap-3 items-center w-48/100 justify-center px-4 py-2 bg-[#2C2638] border-1 border-gray-400 rounded mt-5 transition active:scale-90 duration-400'><img className='w-7' src='../public/apple-icon.png'></img>Apple</button>
+          <button className='flex gap-3 items-center w-48/100 justify-center px-4 py-2 bg-[#2C2638] border-1 border-gray-400 rounded mt-5 transition active:scale-90 duration-400'><img  className='w-7' src='./google-icon.png'></img>Google</button>
+          <button className='flex gap-3 items-center w-48/100 justify-center px-4 py-2 bg-[#2C2638] border-1 border-gray-400 rounded mt-5 transition active:scale-90 duration-400'><img className='w-7' src='./apple-icon.png'></img>Apple</button>
         </div>
 
       </div>
